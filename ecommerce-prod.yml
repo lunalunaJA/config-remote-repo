@@ -3,4 +3,5 @@ token:
   secret: user_token_prod
 
 gateway:
-  ip: 192.168.0.72
+  ip: 192.168.1.47 #wifi
+  # ip: 192.168.0.72 #local
